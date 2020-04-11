@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "Organization",
+      "description": "My stream",
+      "id": 1
+    },
+    {
+      "title": "Football",
+      "description": "My experience",
+      "id": 2
+    },
+    {
+      "title": "Tv",
+      "description": "Cast",
+      "id": 3
+    },
+    {
+      "title": "Tv",
+      "description": "Cast",
+      "id": 4
+    },
+    {
+      "title": "Kitchen",
+      "description": "My muffin",
+      "userId": "100993991155156509828",
+      "id": 5
+    }
+  ]
+}
