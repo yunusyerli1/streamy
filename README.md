@@ -10,9 +10,13 @@
   <a href="https://twitter.com/cmk_y" target="_blank">
     <img alt="Twitter: cmk_y" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcmk_y" />
   </a>
-</p>
+
 <a href="https://rails-facebook.herokuapp.com/" target="_blank">
     <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586676274/streamyApp_pk0wr3.jpg" />
+  </a>
+
+<a href="https://rails-facebook.herokuapp.com/" target="_blank">
+    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586684561/streamy_nznwkm.jpg" />
   </a>
 </p>
 
