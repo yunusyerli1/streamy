@@ -23,7 +23,7 @@
 <br>
 
 
-
+## Info
 In this project, I worked on twitch replica website using react redux.  I tried to make a website like Twitch. First, you can sign in via Google Authentication. If you sign-in, you can create, delete, edit a channel and start streaming via OBS.For streaming, you need to get id number of the channel and put the id as stream key in OBS (Settings-Stream). 
 
 
@@ -37,6 +37,7 @@ In this project, I worked on twitch replica website using react redux.  I tried 
 - Create-React-App
 - Json-Server
 - Rtmp Server
+- Google API
 
 
 ## Usage
