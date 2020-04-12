@@ -24,7 +24,7 @@
 
 
 
-In this project, I worked on twitch replica website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/) I tried to make a website like Youtube. When you enter desired search term in the text field and press Enter, videos related to search term will come from Youtube API. 
+In this project, I worked on twitch replica website using react redux.  I tried to make a website like Twitch. First, you can sign in via Google Authentication. If you sign-in, you can create, delete, edit a channel and start streaming via OBS.For streaming, you need to get id number of the channel and put the id as stream key in OBS (Settings-Stream). 
 
 
 
@@ -38,24 +38,29 @@ In this project, I worked on twitch replica website using react. For the design 
 - Json-Server
 - Rtmp Server
 
-/*### ✨ [Live Demo](https://youtube-repliaca-yerli.herokuapp.com/) */
 
 ## Usage
 
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/Yunusyerli1/youtube_replica.git
+$ git clone https://github.com/Yunusyerli1/streamy.git
 ```
 
 > cd into the directory, install dependencies, build and start 
 
 ```sh
-$ cd videos
+$ cd client
+$ npm run start
+$ cd api
+$ npm run start
+$ cd rmtpserver
 $ npm run start
 ```
 
-> Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Open the project [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Open the database [http://localhost:3001/streams](http://localhost:3001/streams) to view it in the browser.
+
 
 ## Authors
 
@@ -66,9 +71,9 @@ $ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/youtube_replica/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/streamy/issues).
 
-1. Fork it (https://github.com/Yunusyerli1/youtube_replica.git/fork)
+1. Fork it (https://github.com/Yunusyerli1/streamy.git/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
