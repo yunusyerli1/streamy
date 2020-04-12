@@ -39,6 +39,7 @@ In this project, I worked on twitch replica website using react redux.  I tried 
 - Rtmp Server
 - Google API
 
+### ✨ [Live Demo](https://streamyappyerli.herokuapp.com/)
 
 ## Usage
 
