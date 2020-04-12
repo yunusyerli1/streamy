@@ -12,11 +12,11 @@
   </a>
 
 <a href="https://rails-facebook.herokuapp.com/" target="_blank">
-    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586676274/streamyApp_pk0wr3.jpg" />
+    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586695452/Project/streamyApp_dyvf7b.jpg" />
   </a>
 
 <a href="https://rails-facebook.herokuapp.com/" target="_blank">
-    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586684561/streamy_nznwkm.jpg" />
+    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586695452/Project/streamy_nbd5gi.jpg" />
   </a>
 </p>
 
